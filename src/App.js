@@ -7,7 +7,7 @@ function App() {
     
     <div>
       <Routes>
-        <Route path='/' element={<div>Frontend development is in progress...</div>} />
+        <Route path='/' element={<div className=" text-center font-extrabold">Frontend development is in progress...</div>} />
       </Routes>
     </div>
   );
